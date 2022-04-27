@@ -1,0 +1,62 @@
+body {
+  font-size: 20px;
+  font-weight: 100;
+  color: #293651;
+  margin-right: 12%;
+  margin-left: 11%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  text-align: left;
+  font-weight: 1000;
+    font-size: 38px;
+    line-height: 0.2;
+}
+
+h2 {
+  color: #00a78e;
+  text-align:left;
+  font-size: 24px;
+  letter-spacing: 2.6pt;
+  font-weight: 100;
+  line-height: 3;
+
+}
+
+h3 {
+  font-size: 24px;
+  font-weight:normal;
+  text-align: left;
+  letter-spacing: 2.6pt;
+  line-height: 2.4;
+  
+
+}
+
+.resumo {
+  color: #9c9892f6;
+  text-align: left;
+  }
+
+button {
+ background: #00a78e;
+ font-size:16px;
+ border: none;
+ color: white;
+ font: weight 0.1em;
+ border-radius: 4px;
+ letter-spacing: 1.5pt;
+ padding: 14px 28px;
+ font-weight: 100;
+ font-family: 'Montserrat'
+ 
+}
+
+.container {
+  text-align: left;
+}
+
+.imagem {
+  text-align: center;
+}
